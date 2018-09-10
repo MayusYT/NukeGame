@@ -1,0 +1,7 @@
+main: main.Nuke
+author: MayusYT
+version: 1.0
+name: Nuke
+commands:
+    debug:
+        description: Some debug features.
